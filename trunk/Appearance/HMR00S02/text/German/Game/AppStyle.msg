@@ -1,0 +1,2 @@
+{100}{}{Stil: Glatzköpfiger Typ}
+{101}{}{Haare? Wer braucht die? Du bist ein Leuchtturm der sachlichen, robusten Männlichkeit. Oder vielleicht ist es nur die Ödland-Sonne, die sich auf deinem Kopf spiegelt. So oder so, du bist ein rockender Glatzkopf und stolz darauf.}

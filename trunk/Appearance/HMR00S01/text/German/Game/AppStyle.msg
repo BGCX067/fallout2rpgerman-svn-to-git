@@ -1,0 +1,2 @@
+{100}{}{Stil: Langhaariger Typ}
+{101}{}{Deine langen, wallenden Locken liegen auf deinen Schultern. Die Dorfbewohner bewundern die facettenreichen Strähnen deiner prächtigen Mähne, die im Morgenlicht glänzen.}
